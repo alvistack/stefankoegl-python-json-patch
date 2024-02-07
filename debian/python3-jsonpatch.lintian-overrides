@@ -1,0 +1,4 @@
+python3-jsonpatch: copyright-without-copyright-notice
+python3-jsonpatch: initial-upload-closes-no-bugs
+python3-jsonpatch: no-manual-page
+python3-jsonpatch: zero-byte-file-in-doc-directory
