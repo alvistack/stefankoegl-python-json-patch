@@ -1,0 +1,5 @@
+python-jsonpatch source: file-without-copyright-information
+python-jsonpatch source: no-debian-changes
+python-jsonpatch source: source-contains-prebuilt-windows-binary
+python-jsonpatch source: source-is-missing
+python-jsonpatch source: source-package-encodes-python-version
